@@ -1,5 +1,7 @@
-.block {
-  float: left;
+#header{
+  text-align: center;
+  font-size: 15rem;
+  font-family: Quicksand;
 }
 
 /* Position and sizing of burger button */
