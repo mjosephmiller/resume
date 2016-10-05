@@ -61,5 +61,20 @@
 
 #profile-picture {
   border-radius: 50%;
-  height: 800px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+}
+
+.menu-item{
+  font-size: 5rem;
+  border-radius: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+}
+
+.btn, [type=submit], button {
+  padding: 10px 30px 10px 30px;
 }
